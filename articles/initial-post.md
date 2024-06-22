@@ -3,7 +3,7 @@ title: "自己紹介"
 emoji: "😃"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [自己紹介]
-published: true
+published: false
 ---
 
 # はじめに
